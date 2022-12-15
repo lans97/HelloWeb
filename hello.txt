@@ -1,3 +1,0 @@
-This is a text
-in the same dir
-that index.js
